@@ -1,0 +1,28 @@
+Wszystkie pytania posiadają polecenie i kontekst, który od razu pokazuje wartość biznesową pytania.
+
+Pytania od Zosi Sosińskiej:
+
+1. Ulubionym gatunkiem filmu Stasia jest XYZ. Jego ulubieni aktorzy to ABC i DEF.
+Stasio chce wyszukać wszystkie filmy z gatunku XYZ, w których występuje aktor
+ABC lub DEF (posortowane od najbardziej lubianych do najmniej).
+
+2. Gienio nie lubi długich filmów oraz bardzo sznuje nagradzanych rezyserow. Chce
+wyszukać wszystkie filmy trwające krócej niz 2 godziny, których reżyser został
+nagrodzony (film dostal nagrode za reżyserie), posortowane od najkrótszych do
+najdłuższych.
+
+3. Halinka chce zostac aktorka. Jest ciekawa ile zarabia znany aktor. Chce wyszukać
+zarobek nagradzanych atorów (posortowany malejąco) oraz w jakich innych filmach
+grali i jakie te filmy miały oceny(posortowane od najbardziej lubianych do najmniej).
+
+Pierwsze pytanie zostało nieznacznie zmienione, aby dopasowac do zawartości bazy danych
+
+
+
+Pytania od Mikołaj Morozowski:
+1. Aktor ktory ma najlepsza srednia ocen w filmach ktore maja budzet mniejszy od X
+2. Uzytkownicy ktorzy srednio oceniaja filmy powyzej 5.0
+3. Rezyserzy ktorzy nagrali wiecej niz 3 filmy jednego gatunku i srednia ocena wszystkich
+tych filmow z tego gatunku przekracza 7.0
+
+Nie implementowałem dokładnie tych pytań, ponieważ nie zostały porządnie wytłumaczone oraz nie zawierają rozsądnych zapytan biznesowych.
